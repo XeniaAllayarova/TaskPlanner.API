@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Task_planner.API.DTOs;
-using Task_planner.API.Repositories.Interfaces;
+using TaskPlanner.API.DTOs;
+using TaskPlanner.API.Repositories.Interfaces;
 
-namespace Task_planner.API.Controllers
+namespace TaskPlanner.API.Controllers
 {
     [ApiController]
     [Route("api/auth")]

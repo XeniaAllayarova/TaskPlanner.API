@@ -1,4 +1,4 @@
-﻿namespace Task_planner.API.DTOs
+﻿namespace TaskPlanner.API.DTOs
 {
     public class RegisterDto
     {

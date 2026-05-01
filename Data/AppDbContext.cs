@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Task_planner.API.Models;
-using Task = Task_planner.API.Models.Task;
+using TaskPlanner.API.Models;
+using Task = TaskPlanner.API.Models.Task;
 
-namespace Task_planner.API.Data
+namespace TaskPlanner.API.Data
 {
     public class AppDbContext : DbContext
     {

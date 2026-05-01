@@ -1,4 +1,4 @@
-﻿namespace Task_planner.API.Models
+﻿namespace TaskPlanner.API.Models
 {
     public class User
     {

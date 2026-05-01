@@ -1,8 +1,8 @@
-﻿using Task_planner.API.Data;
-using Task_planner.API.Models;
-using Task_planner.API.Repositories.Interfaces;
+﻿using TaskPlanner.API.Repositories.Interfaces;
+using TaskPlanner.API.Data;
+using TaskPlanner.API.Models;
 
-namespace Task_planner.API.Repositories.Implementations
+namespace TaskPlanner.API.Repositories.Implementations
 {
     public class UserRepository : IUserRepository
     {

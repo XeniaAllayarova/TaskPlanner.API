@@ -1,6 +1,6 @@
-﻿using Task_planner.API.Models;
+﻿using TaskPlanner.API.Models;
 
-namespace Task_planner.API.Repositories.Interfaces
+namespace TaskPlanner.API.Repositories.Interfaces
 {
     public interface IUserRepository
     {

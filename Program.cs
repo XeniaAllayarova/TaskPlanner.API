@@ -1,10 +1,10 @@
 
 using Microsoft.EntityFrameworkCore;
-using Task_planner.API.Data;
-using Task_planner.API.Repositories.Implementations;
-using Task_planner.API.Repositories.Interfaces;
+using TaskPlanner.API.Data;
+using TaskPlanner.API.Repositories.Interfaces;
+using TaskPlanner.API.Repositories.Implementations;
 
-namespace Task_planner.API
+namespace TaskPlanner.API
 {
     public class Program
     {
